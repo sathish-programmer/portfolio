@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "name": "Sathish Kumar K",
+    "titles": [
+      "Full-Stack Developer",
+      "MERN Stack",
+      "Dev Team lead",
+      "MEAN Stack"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/sathish-programmer",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+
+      {
+        "name": "Node.Js",
+        "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "Mongo DB",
+        "class": "devicon-mongodb-plain",
+        "level": "60"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Sathish Kumar K. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and backend like node, express, php. What you are seeing now is portfolio template from Sathish Kumar K. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Call Billing",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/callbilling/p1.png",
+        "images/portfolio/callbilling/p2.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.Js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo DB"
+        }
+      ]
+    },
+    {
+      "title": "Vasoolbook",
+      "startDate": "2021",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all financial processess and allows to store all details from customer to vendors.",
+      "images": [
+        "images/portfolio/vasoolbook/p2.jpg",
+        "images/portfolio/vasoolbook/p1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgres"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySql"
+        }
+      ]
+    },
+    {
+      "title": "Food Delivery App",
+      "startDate": "2019",
+      "description": "Personal project for learning purposes. I was responsible for creating food menus and adding food items to the cart dynamically for testing an application that optimizes images for food. I used popular programming languages such as react, node, and MongoDB :)",
+      "images": [
+        "images/portfolio/food/p2.jpg",
+        "images/portfolio/food/p1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.Js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo DB"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Imperium Software Technology",
+      "title": "Full Stack Developer",
+      "years": "11.2022 - present",
+      "mainTech": ["React.Js, Angular 10, Node.Js"],
+      "technologies": [
+        "Angular",
+        "React.Js",
+        "Node Js",
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Mongo DB",
+        "PHP",
+        "SQl",
+        "Git",
+        "SignalR",
+        "Material UI",
+        "Putty",
+        "Azure Devops"
+      ]
+    },
+    {
+      "company": "Jubilant Services and Solutions ",
+      "title": "Senior Backend Developer",
+      "years": "02.2021 - 10.2021",
+      "mainTech": ["Python"],
+      "technologies": [
+        "Python",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "Ajax",
+        "Postgres",
+        "SQL Server",
+        "Bootstrap",
+        "Typo 3",
+        "Git"
+      ]
+    },
+    {
+      "company": "Eprodix It Solutions ",
+      "title": "Web Developer",
+      "years": "12.2018 - 02.2021",
+      "mainTech": ["Javascript"],
+      "technologies": [
+        "HTML",
+        "CSS3",
+        "JavaScript",
+        "Ajax",
+        "PHP",
+        "SQL Server",
+        "Bootstrap 4",
+        "Git"
+      ]
+    }
+  ]
+}
