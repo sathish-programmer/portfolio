@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
-
+import nodeIcon from "@iconify/icons-logos/nodejs-icon";
+import gitIcon from "@iconify/icons-logos/git";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={nodeIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
