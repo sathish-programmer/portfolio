@@ -58,10 +58,14 @@
         "class": "devicon-javascript-plain",
         "level": "70"
       },
-
       {
         "name": "Node.Js",
         "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+       {
+        "name": "Nest.Js",
+        "class": "devicon-nestjs-plain",
         "level": "65"
       },
       {
