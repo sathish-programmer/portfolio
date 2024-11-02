@@ -65,8 +65,13 @@
       },
        {
         "name": "Nest.Js",
-        "class": "devicon-nestjs-plain",
+        "class": "devicon-nestjs-original-wordmark",
         "level": "65"
+      },
+      {
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
       },
       {
         "name": "Mongo DB",
