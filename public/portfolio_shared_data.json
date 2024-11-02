@@ -74,6 +74,11 @@
         "level": "85"
       },
       {
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
         "name": "Mongo DB",
         "class": "devicon-mongodb-plain",
         "level": "80"
