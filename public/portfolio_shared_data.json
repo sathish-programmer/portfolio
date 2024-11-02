@@ -36,7 +36,7 @@
       {
         "name": "Sass",
         "class": "devicon-sass-original",
-        "level": "75"
+        "level": "85"
       },
       {
         "name": "Bootstrap",
@@ -46,7 +46,7 @@
       {
         "name": "Angular",
         "class": "devicon-angularjs-plain",
-        "level": "80"
+        "level": "90"
       },
       {
         "name": "React",
@@ -56,17 +56,22 @@
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
-        "level": "70"
+        "level": "95"
       },
       {
         "name": "Node.Js",
         "class": "devicon-nodejs-plain",
-        "level": "65"
+        "level": "95"
       },
        {
         "name": "Nest.Js",
         "class": "devicon-nestjs-original-wordmark",
-        "level": "65"
+        "level": "95"
+      },
+       {
+        "name": "PostgresSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "85"
       },
       {
         "name": "Postgres",
@@ -76,12 +81,12 @@
       {
         "name": "Mongo DB",
         "class": "devicon-mongodb-plain",
-        "level": "60"
+        "level": "80"
       },
       {
         "name": "MySql",
         "class": "devicon-mysql-plain",
-        "level": "60"
+        "level": "90"
       }
     ]
   }

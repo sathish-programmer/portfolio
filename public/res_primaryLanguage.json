@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Sathish Kumar K. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and backend like node, express, php. What you are seeing now is portfolio template from Sathish Kumar K. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 I'm Sathish Kumar K. Fictional person for preview purposes 😇, I'm working with newest front-end frameworks like Angular, React and backend like node.js, nest.js, express, php. What you are seeing now is portfolio template from Sathish Kumar K. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -97,9 +97,45 @@
   ],
   "experience": [
     {
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "title": "Senior Chief Manager",
+      "years": "28/08/2024 - Present",
+      "mainTech": ["Nest.Js, Node.Js, AWS"],
+      "technologies": [
+        "Nest.Js",
+        "Node Js",
+        "AWS",
+        "REST API",
+        "JavaScript",
+        "PostgresSQL",
+        "SQl",
+        "Git",
+        "Putty",
+      ]
+    },
+    {
+      "company": "Finforz Technologies",
+      "title": "Senior Software Developer",
+      "years": "04/01/2023 - 22/08/2024",
+      "mainTech": ["React.Js, Angular 10, Node.Js, AWS"],
+      "technologies": [
+        "Angular",
+        "React.Js",
+        "Node Js",
+        "AWS",
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "Git",
+        "Material UI",
+        "Azure Devops"
+      ]
+    },
+    {
       "company": "Imperium Software Technology",
       "title": "Full Stack Developer",
-      "years": "11.2022 - present",
+      "years": "29/11/2021 - 01/01/2023",
       "mainTech": ["React.Js, Angular 10, Node.Js"],
       "technologies": [
         "Angular",
@@ -110,12 +146,10 @@
         "JavaScript",
         "Bootstrap",
         "MDBootstrap",
-        "EF Core",
         "Mongo DB",
         "PHP",
         "SQl",
-        "Git",
-        "SignalR",
+        "GitLab",
         "Material UI",
         "Putty",
         "Azure Devops"
