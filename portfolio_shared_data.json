@@ -24,24 +24,19 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "96"
+      },
+      {
+        "name": "Node.Js",
+        "class": "devicon-nodejs-plain",
         "level": "95"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
-      },
-      {
-        "name": "Sass",
-        "class": "devicon-sass-original",
-        "level": "85"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "name": "Nest.Js",
+        "class": "devicon-nestjs-original",
+        "level": "92"
       },
       {
         "name": "Angular",
@@ -51,37 +46,22 @@
       {
         "name": "React",
         "class": "devicon-react-plain",
-        "level": "90"
-      },
-      {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "95"
-      },
-      {
-        "name": "Node.Js",
-        "class": "devicon-nodejs-plain",
-        "level": "95"
+        "level": "80"
       },
        {
-        "name": "Nest.Js",
-        "class": "devicon-nestjs-original",
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
         "level": "95"
       },
       {
         "name": "Postgres",
         "class": "devicon-postgresql-plain",
-        "level": "95"
+        "level": "90"
       },
       {
         "name": "MongoDB",
         "class": "devicon-mongodb-plain",
-        "level": "90"
-      },
-      {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
-        "level": "90"
+        "level": "80"
       }
     ]
   }
